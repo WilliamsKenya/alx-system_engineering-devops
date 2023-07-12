@@ -1,1 +1,1 @@
-script for alias
+Shell, init files, variables and expansions
